@@ -1,9 +1,6 @@
-## ATTENTION: this project is no longer actively maintained (I still push some code once in a while), if you want to see improvements on this project, please consider [sponsoring me](https://github.com/sponsors/egoist).
+## doc-u-cute
 
-
-# Docute
-
-[![npm version](https://badgen.net/npm/v/docute)](https://npm.im/docute) [![jsdelivr downloads](https://data.jsdelivr.com/v1/package/npm/docute/badge?style=rounded)](https://www.jsdelivr.com/package/npm/docute) [![circleci](https://badgen.net/circleci/github/egoist/docute/master)](https://circleci.com/gh/egoist/docute/tree/master)  [![donate](https://badgen.net/badge/support%20me/donate/ff69b4)](https://patreon.com/egoist)
+> from the original author: this project is no longer actively maintained (I still push some code once in a while), if you want to see improvements on this project, please consider [sponsoring me](https://github.com/sponsors/egoist).
 
 Effortless documentation, done right.
 
